@@ -73,7 +73,7 @@ O diferencial técnico deste projeto não é apenas "como ele ganha dinheiro", m
 👨‍💻 Autor
 Otávio Henrique Analista de Sistemas & Desenvolvedor Full-Stack
 
-Especialista em automação de processos, sistemas financeiros e desenvolvimento web. Entre em contato para discutir arquitetura de software ou oportunidades.
+Entre em contato para discutir oportunidades.
 
 LinkedIn • Portfólio
 
