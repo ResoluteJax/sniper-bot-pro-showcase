@@ -52,11 +52,11 @@ O diferencial técnico deste projeto não é apenas "como ele ganha dinheiro", m
 ### Dashboard de Monitoramento (React)
 *Visão Tela de Login - Segurança e Validações*
 ![Login Preview](https://github.com/ResoluteJax/sniper-bot-pro-showcase/blob/main/assets/2.png?raw=true)
-![Resgister Preview](https://github.com/ResoluteJax/sniper-bot-pro-showcase/blob/main/assets/3.png?raw=true).
+![Resgister Preview](https://github.com/ResoluteJax/sniper-bot-pro-showcase/blob/main/assets/3.png?raw=true)
 
 *Visão geral do painel de controle em tempo real, mostrando o status da conexão e lucro líquido.*
 ![Dashboard Preview](https://github.com/ResoluteJax/sniper-bot-pro-showcase/blob/main/assets/4.png?raw=true)
-![Dashboard Previe Comprado]([https://github.com/ResoluteJax/sniper-bot-pro-showcase/blob/main/assets/5.png?raw=true)
+![Dashboard Previe Comprado](https://github.com/ResoluteJax/sniper-bot-pro-showcase/blob/main/assets/5.png?raw=true)
 ![Ferramenta Sniper Lab - Backtest](https://github.com/ResoluteJax/sniper-bot-pro-showcase/blob/main/assets/6.png?raw=true)
 ![Ferramenta Sniper Lab - Backtest - Resultado Real](https://github.com/ResoluteJax/sniper-bot-pro-showcase/blob/main/assets/7.png?raw=true)
 ![Dados Cadastrais](https://github.com/ResoluteJax/sniper-bot-pro-showcase/blob/main/assets/8.png?raw=true)
