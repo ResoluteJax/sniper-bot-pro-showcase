@@ -66,44 +66,7 @@ O diferencial técnico deste projeto não é apenas "como ele ganha dinheiro", m
 
 ![Logs Preview](https://github.com/ResoluteJax/sniper-bot-pro-showcase/blob/main/assets/1.png?raw=true)
 
-*(Nota: Imagens ilustrativas do ambiente de desenvolvimento)*
-
----
-
-## 🚀 Como Executar (Modo Demo)
-
-Como a estratégia proprietária foi removida, o bot rodará em modo de demonstração estrutural.
-
-### Pré-requisitos
-* Python 3.10+
-* Node.js & NPM
-* Git
-
-
-### 1. Backend Setup
-
-# Clone o repositório
-git clone [https://github.com/ResoluteJax/sniper-bot-pro-showcase.git](https://github.com/ResoluteJax/sniper-bot-pro-showcase.git)
-cd sniper-bot-pro-showcase/backend
-
-# Instale as dependências
-pip install -r requirements.txt
-
-# Inicie o servidor (O Banco de dados será criado automaticamente)
-python server.py
-
-
-###2. Frontend Setup
-
-# Em outro terminal, navegue para a pasta frontend
-cd ../frontend
-
-# Instale os pacotes
-npm install
-
-# Inicie a aplicação
-npm start
-O Dashboard estará disponível em http://localhost:3000.
+*(Nota: Imagens mostram o sitema funcional no ambiente de desenvolvimento)*
 
 ---
 
