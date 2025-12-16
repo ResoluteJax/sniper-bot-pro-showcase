@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node / Frontend
+node_modules/
+build/
+dist/
+
+# Banco de Dados e Logs (CRÍTICO)
+*.db
+*.sqlite3
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
